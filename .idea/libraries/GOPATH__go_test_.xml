@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_test&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../src/sillyproject00" />
+      <root url="file://$PROJECT_DIR$/../../src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../src/rdstdin" />
+      <root url="file://$PROJECT_DIR$/../../src/rand00" />
+      <root url="file://$PROJECT_DIR$/../../src/raiseShld" />
+      <root url="file://$PROJECT_DIR$/../../src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../src/RestClient" />
+      <root url="file://$PROJECT_DIR$/../../src/webserver3_8" />
+      <root url="file://$PROJECT_DIR$/../../src/lnkdlst" />
+      <root url="file://$PROJECT_DIR$/../../src/Mastering-Go-Programming" />
+      <root url="file://$PROJECT_DIR$/../../src/slys00" />
+      <root url="file://$PROJECT_DIR$/../../src/spinner" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../src/sillyproject00" />
+      <root url="file://$PROJECT_DIR$/../../src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../src/rdstdin" />
+      <root url="file://$PROJECT_DIR$/../../src/rand00" />
+      <root url="file://$PROJECT_DIR$/../../src/raiseShld" />
+      <root url="file://$PROJECT_DIR$/../../src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../src/RestClient" />
+      <root url="file://$PROJECT_DIR$/../../src/webserver3_8" />
+      <root url="file://$PROJECT_DIR$/../../src/lnkdlst" />
+      <root url="file://$PROJECT_DIR$/../../src/Mastering-Go-Programming" />
+      <root url="file://$PROJECT_DIR$/../../src/slys00" />
+      <root url="file://$PROJECT_DIR$/../../src/spinner" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
